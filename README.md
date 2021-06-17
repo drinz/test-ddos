@@ -1,1 +1,1 @@
-# test-ddos
+python3 ddos.py
